@@ -182,8 +182,8 @@ body {
   text-decoration: none;
 }
 
-.footer-web {
-  color: #4d5ae5;
+.footer-studio {
+  color: #f4f4fd;
 }
 
 .footer-paragraph {
@@ -193,5 +193,5 @@ body {
 }
 
 .page-bottom {
-  color: #2e2f42;
+  background-color: #2e2f42;
 }
