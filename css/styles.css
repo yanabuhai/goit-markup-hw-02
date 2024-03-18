@@ -129,6 +129,7 @@ body {
 }
 
 .team-worker-name {
+  color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -171,10 +172,11 @@ body {
 }
 
 .footer-logo {
-  color: #f4f4fd;
+  font-family: "Raleway", sans-serif;
+  color: #4d5ae5;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
@@ -191,5 +193,5 @@ body {
 }
 
 .page-bottom {
-  background-color: #2e2f42;
+  color: #2e2f42;
 }
